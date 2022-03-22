@@ -13,7 +13,7 @@
     <spring.group>org.springframework</spring.group>
     <spring.version>4.2.4.RELEASE</spring.version>
     <hibernate.group>org.hibernate</hibernate.group>
-    <hibernate.version>4.3.11.Final</hibernate.version>
+    <hibernate.version>5.4.24.Final</hibernate.version>
     <slf4j.version>1.7.15</slf4j.version>
 	<cucumber.version>1.2.4</cucumber.version>
 	<selenium.version>2.48.2</selenium.version>
